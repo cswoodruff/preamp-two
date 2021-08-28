@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DAC8812ICPWG4
+F https://www.ti.com/lit/gpn/dac8812
+$ENDCMP
+#
 #End Doc Library

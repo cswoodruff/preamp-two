@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name DAC8812)(type Legacy)(uri /Users/max/git/preamp-two/PCBs/mdac-attenuator/DAC8812.lib)(options "")(descr ""))
+  (lib (name DAC8812)(type Legacy)(uri ${KIPRJMOD}/DAC8812.lib)(options "")(descr ""))
+  (lib (name mdac-attenuator-rescue)(type Legacy)(uri ${KIPRJMOD}/mdac-attenuator-rescue.lib)(options "")(descr "")(disabled))
 )
